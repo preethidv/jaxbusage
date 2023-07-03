@@ -1,0 +1,12 @@
+<root>
+  <items>
+    <item>
+      <name>Item 1</name>
+      <price>10.99</price>
+    </item>
+    <item>
+      <name>Item 2</name>
+      <price>15.99</price>
+    </item>
+  </items>
+</root>
